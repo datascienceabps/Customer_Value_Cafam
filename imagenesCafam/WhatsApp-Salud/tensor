@@ -1,0 +1,17 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "CAFAM WhatsApp Salud",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/datascienceabps/Customer_Value_Cafam/main/imagenesCafam/WhatsApp-Salud/WhatsApp%20-%20Salud_tensor00_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/datascienceabps/Customer_Value_Cafam/main/imagenesCafam/WhatsApp-Salud/WhatsApp%20-%20Salud_tensor00_metadata.tsv"
+      
+      
+
+
+    }
+  ]
+}

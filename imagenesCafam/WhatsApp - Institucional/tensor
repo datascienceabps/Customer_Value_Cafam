@@ -1,0 +1,17 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "CAFAM: WhatsApp Institucional",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/datascienceabps/Customer_Value_Cafam/main/imagenesCafam/WhatsApp%20-%20Institucional/WhatsApp%20-%20Institucional_tensor00_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/datascienceabps/Customer_Value_Cafam/main/imagenesCafam/WhatsApp%20-%20Institucional/WhatsApp%20-%20Institucional_tensor00_metadata.tsv"
+      
+      
+
+
+    }
+  ]
+}
